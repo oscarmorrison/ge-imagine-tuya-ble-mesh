@@ -1,4 +1,9 @@
-# Drafts for upstream (not posted yet)
+# Upstream
+
+- PR: https://github.com/magmu/tuya-ble-mesh/pull/23
+- Comment: https://github.com/11z4t/tuya-ble-mesh/issues/2#issuecomment-6404745270
+
+The text as posted:
 
 ## PR to magmu/tuya-ble-mesh
 

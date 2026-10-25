@@ -4,7 +4,7 @@ How to control **GE imagine Paragon RGB+CCT downlights** (G13239L, sold in Austr
 
 This builds on [magmu/tuya-ble-mesh](https://github.com/magmu/tuya-ble-mesh), a fork of [11z4t/tuya-ble-mesh](https://github.com/11z4t/tuya-ble-mesh). The key brightness bytes came from an HCI capture in [11z4t/tuya-ble-mesh#2](https://github.com/11z4t/tuya-ble-mesh/issues/2).
 
-- [`patches/magmu-tuya-ble-mesh-v0.42.13.patch`](patches/magmu-tuya-ble-mesh-v0.42.13.patch): the changes to the integration, with tests (the unit suite passes). Apply it with `git am` on top of magmu v0.42.13.
+- [`patches/magmu-tuya-ble-mesh-v0.42.13.patch`](patches/magmu-tuya-ble-mesh-v0.42.13.patch): the changes to the integration, with tests (the unit suite passes). Apply it with `git am` on top of magmu v0.42.13. It's also open as [magmu/tuya-ble-mesh#23](https://github.com/magmu/tuya-ble-mesh/pull/23).
 - [`tools/`](tools): the scripts used to work the protocol out.
 
 ## The lights
